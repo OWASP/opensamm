@@ -1,0 +1,38 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27bb61f3c6344359b021caeaef5ab07e
+#The title of this activity
+title: Adira a princípios básicos de segurança
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conjuntos de princípios básicos de segurança disponíveis para as equipes de produtos
+#A one sentence description of the activity
+shortDescription: As equipes são treinadas sobre o uso dos princípios básicos de segurança durante o design
+#A multi-paragraph description of the activity
+longDescription: |
+  Durante o design, a equipe técnica do time de produtos utiliza um checklist de princípios de segurança. Normalmente, os princípios de segurança incluem defesa em profundidade, proteção do elo mais fraco, uso de padrões seguros, simplicidade no design de funcionalidades de segurança, falhas de segurança, equilíbrio entre segurança e usabilidade, menor privilégio, não utilização de segurança por obscuridade etc.
+
+  Para interfaces de perímetro, o time considera cada princípio no contexto do sistema como um todo e identifica recursos que podem ser adicionados para reforçar a segurança em cada uma dessas interfaces. Limite-os para que eles exijam apenas um pouco mais de esforço além do custo normal de implementação de requisitos funcionais. Observe e anote qualquer coisa maior e programe-os para o próximo lançamento.
+
+  Treine cada time de produtos com conscientização em segurança antes deste processo e incorpore equipes mais experientes em segurança para ajudar na tomada de decisões de design.
+#The output of this particular activity
+results:
+#The different metrics that can be used to measure the success of the activity
+metrics:
+#A description of the costs required to implement the activity
+costs:
+#The (standard) roles involved in the implementation of this activity
+personnel:
+#Internal notes that might help the author
+notes:
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+#Type Classification of the Document
+type: Atividade

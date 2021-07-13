@@ -1,0 +1,13 @@
+---
+#===================================================
+#OWASP SAMM2 Security Maturity Level - Level 1
+#===================================================
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 0a1dc80f84964f2fa776c5d8e932353a
+#The number of the marurity level
+number: 1
+#General description of this maturity level
+description: O primeiro nível de maturidade visa alcançar uma implementação ad hoc, com o melhor esforço, de uma atividade específica em uma stream.
+#Type Classification of the Document
+type: Nível de Maturidade
